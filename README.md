@@ -6,12 +6,12 @@
 </div>
 
 
-VÃ­deo explicativo com avatar e voz do Nei (Explicavideos v2): o que a Anthropic faz com pessoas (talentos, propÃ³sito, retenÃ§Ã£o) e com a prÃ³pria IA (a constituiÃ§Ã£o do Claude), e o que isso mostra sobre a gestÃ£o de pessoas, processos e agentes nas empresas de sucesso em 2027.
+VêÂ­deo explicativo com avatar e voz do Nei (Explicavideos v2): o que a Anthropic faz com pessoas (talentos, propêÂ³sito, retenêÂ§êÂ£o) e com a prêÂ³pria IA (a constituiêÂ§êÂ£o do Claude), e o que isso mostra sobre a gestêÂ£o de pessoas, processos e agentes nas empresas de sucesso em 2027.
 
 - Assistir: https://linnoff88-dev.github.io/
 - Curso do mesmo tema: https://linnoff88-dev.github.io/
 
-ConteÃºdo aberto e gratuito do [ARCKHÉ AI](https://ARCKHÉ AI).
+ConteêÂºdo aberto e gratuito do [ARCKHê AI](https://ARCKHê AI).
 
 ---
 
